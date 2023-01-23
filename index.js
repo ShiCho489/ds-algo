@@ -9,3 +9,6 @@ function addNums(n) {
   }
   
   console.time("Timer 1");
+
+  console.timeLog("Timer 1");  // Timer 1: 5.446s
+  
